@@ -1,0 +1,1 @@
+{"token":"$TOKEN","client":"CLIENT_ID_HERE","tag":"","case":"false","separator":"\\s+","ownerId":"BOT_OWNER_ID_HERE","modules":{"discord.js":["^11.2.0",true],"fstorm":["^0.1.3",true],"jimp":["^0.2.28",true],"valid-url":["^1.0.9",true],"libsodium-wrappers":["",false],"opusscript":["",false],"ytdl-core":["",false]},"Bot Intents":{"customData":{"Bot Intents":{"intents":-2}}}}
