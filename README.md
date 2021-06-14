@@ -1,5 +1,5 @@
 # Frontier Administration Bot - Community Edition
-The official repository for Frontier Administration Bot Community Edition.
+The official repository for Frontier Administration Bot Community Edition. The source code in this bot is published under the MIT license.
 <div align="center">
   <br />
   <p>
