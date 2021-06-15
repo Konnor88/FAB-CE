@@ -25,7 +25,7 @@ To open the bot in DBM, you must create an empty "project.discordbot" file insid
 
 # How do I get it running?
 
-Clone the repository to your system, run npm install and substitute the $TOKEN line for your bot token in data/settings.json. Then, run node bot.js.
+Clone the repository to your system, run npm install and substitute the $TOKEN line for your bot token in data/settings.json. Then, run `node bot.js`.
 
 ## RUNNING IN DOCKER
 
