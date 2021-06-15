@@ -33,6 +33,6 @@ Type this in your terminal:
 
 ```
 
-docker run -d --restart=unless-stopped -e TOKEN= <your-token-here>cobaltdocker/fab-ce</your-token-here>
+docker run -d --restart=unless-stopped -e TOKEN=your-token cobaltdocker/fabce
 
 ```
