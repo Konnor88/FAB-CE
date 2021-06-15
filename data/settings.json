@@ -1,10 +1,10 @@
 {
     "token": "$TOKEN",
-    "client": "$CLIENTID",
-    "tag": "$TAG",
+    "client": "",
+    "tag": "",
     "case": "false",
     "separator": "\\s+",
-    "ownerId": "$OWNERID",
+    "ownerId": "",
     "modules": {
         "discord.js": [
             "^11.2.0",
