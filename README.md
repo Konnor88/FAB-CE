@@ -2,6 +2,8 @@
 
 ### The official repository for Frontier Administration Bot Community Edition. The source code of this bot is published under the MIT license.
 
+[![Docker Hub Builds](https://img.shields.io/docker/cloud/automated/cobaltdocker/fabce?color=0047ab&label=Docker%20Builds&logo=docker&logoColor=cc0000&style=for-the-badge)](https://hub.docker.com/r/cobaltdocker/fabce)
+
 <div align="center">
 
 <p><a href="https://github.com/Konnor88/FAB-CE"><img src="https://tmafe.com/images/fabceicon.png" width=512 height=512</a></p>
