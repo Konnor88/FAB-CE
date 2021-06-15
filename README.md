@@ -9,8 +9,7 @@
 
   
 
-[![FAB-CE](https://tmafe.com/images/fabceicon.png =512x512)](https://github.com/Konnor88/FAB-CE)
-
+<p><a href="https://github.com/Konnor88/FAB-CE"><img src="https://tmafe.com/images/fabceicon.png" width=512 height=512</a></p>
   
 
 </div>
