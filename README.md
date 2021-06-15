@@ -16,6 +16,4 @@ The official repository for Frontier Administration Bot Community Edition. The s
   Clone the repository to your system, run npm install and substitute the $TOKEN line for your bot token in data/settings.json. Then, run node bot.js. Or...
   <h2>RUNNING IN DOCKER</h2>
   Type this in your terminal:
-  ```bash
-  docker run -d --restart=unless-stopped -e TOKEN=<your-token-here> cobaltdocker/fab-ce
-  ```
+  <code>docker run -d --restart=unless-stopped -e TOKEN=<your-token-here> cobaltdocker/fab-ce</code>
