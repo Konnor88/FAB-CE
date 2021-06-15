@@ -2,9 +2,11 @@
 
 ### The official repository for Frontier Administration Bot Community Edition. The source code of this bot is published under the MIT license.
 
+[![Docker Hub Builds](https://img.shields.io/docker/cloud/automated/cobaltdocker/fabce?color=0047ab&label=Docker%20Builds&logo=docker&logoColor=cc0000&style=for-the-badge)](https://hub.docker.com/r/cobaltdocker/fabce) [![Image Size](https://img.shields.io/docker/image-size/cobaltdocker/fabce/latest?color=cc0000&logo=docker&logoColor=0047ab&style=for-the-badge)](https://hub.docker.com/r/cobaltdocker/fabce) 
+
 <div align="center">
 
-<p><a href="https://github.com/Konnor88/FAB-CE"><img src="https://tmafe.com/images/fabceicon.png" width=512 height=512</a></p>
+<p><a href="https://github.com/Konnor88/FAB-CE"><img src="https://tmafe.com/images/fabceicon.png" width=256 height=256</a></p>
 
 
 </div>
@@ -23,7 +25,7 @@ To open the bot in DBM, you must create an empty "project.discordbot" file insid
 
 # How do I get it running?
 
-Clone the repository to your system, run npm install and substitute the $TOKEN line for your bot token in data/settings.json. Then, run node bot.js.
+Clone the repository to your system, run npm install and substitute the $TOKEN line for your bot token in data/settings.json. Then, run `node bot.js`.
 
 ## RUNNING IN DOCKER
 
@@ -31,6 +33,6 @@ Type this in your terminal:
 
 ```
 
-docker run -d --restart=unless-stopped -e TOKEN= <your-token-here>cobaltdocker/fab-ce</your-token-here>
+docker run -d --restart=unless-stopped -e TOKEN=your-token cobaltdocker/fabce
 
 ```
