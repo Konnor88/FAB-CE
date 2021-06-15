@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<p><a href="https://github.com/Konnor88/FAB-CE"><img src="https://tmafe.com/images/fabceicon.png" width=512 height=512</a></p>
+<p><a href="https://github.com/Konnor88/FAB-CE"><img src="https://tmafe.com/images/fabceicon.png" width=256 height=256</a></p>
 
 
 </div>
