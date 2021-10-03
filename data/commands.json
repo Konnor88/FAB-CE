@@ -34,7 +34,7 @@
             {
                 "channel": "0",
                 "varName": "",
-                "message": "FAB will now silence any and every message!",
+                "message": "FAB CE will now silence anyone who isn't a reactionary!",
                 "storage": "0",
                 "varName2": "",
                 "iffalse": "0",
@@ -441,8 +441,8 @@
         "restriction": "1",
         "actions": [
             {
-                "title": "Frontier Administration Bot Community Edition",
-                "author": "Frontier Administration Bot Community Edition",
+                "title": "Frontier Administration Bot - Community Edition",
+                "author": "Frontier Administration Bot - Community Edition",
                 "color": "D84119",
                 "timestamp": "false",
                 "url": "",
@@ -482,7 +482,7 @@
             {
                 "channel": "0",
                 "varName": "",
-                "message": "`` FAB V5.1 April 23rd, 2021\n\n+ Bug fixes\n+ fixed typos\n+ command redirects (fb!user can be used and have the same result as fb!user-info)\n+ silent mode now requires only manage message permissions\n\nFeedback? Be sure to use fb!suggest for suggestions or fb!report-bug to report bugs!\n``",
+                "message": "`` FAB CE V5.1 April 23rd, 2021\n\n+ Bug fixes\n+ fixed typos\n+ command redirects (fb!user can be used and have the same result as fb!user-info)\n+ silent mode now requires only manage message permissions\n\nFeedback? Be sure to use fb!suggest for suggestions or fb!report-bug to report bugs!\n``",
                 "storage": "0",
                 "varName2": "",
                 "name": "Send Message"
@@ -553,8 +553,8 @@
         "restriction": "1",
         "actions": [
             {
-                "title": "About Frontier Administration Bot Community Edition",
-                "author": "Frontier Administration Bot Community Edition",
+                "title": "About Frontier Administration Bot - Community Edition",
+                "author": "Frontier Administration Bot - Community Edition",
                 "color": "D84119",
                 "timestamp": "false",
                 "url": "",
